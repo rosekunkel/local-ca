@@ -1,0 +1,5 @@
+*.pem
+serial*
+index.db*
+private
+certs
